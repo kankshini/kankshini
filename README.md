@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kankshini Deotale</h1>
 <h3 align="center">Aspiring Embedded System Developer | Electronics Engineer | Tech Explorer</h3>
 
-- 🔭 I’m currently working on **IoT & AI Projects**
+- 🔭 I’m currently working on **IoT & embedded Projects**
 
 - 🌱 I’m currently learning **Data Structures in C++, Web Development, and DevOps**
 
@@ -37,13 +37,6 @@
 
 ---
 
-### 🧠 Top Projects
-
-- 🚀 [ChefAI](https://github.com/kankshini/ChefAI) – Flutter + Gemini-powered Recipe Converter  
-- 🤖 [AI Sentinel BOT](https://github.com/kankshini/ai-sentinel-bot) – AI Chatbot for ERP Systems  
-- 📦 [IoT Color Sorter](https://github.com/kankshini/iot-color-sorter) – Real-time color-based object sorting
-
----
 
 ### 🌐 Connect with me
 
