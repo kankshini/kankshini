@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, ESP32, Flutter, Firebase, AI bots**
 
-- 📫 How to reach me: **kankshini@gmail.com**
+- 📫 How to reach me: **kankshinideotale@gmail.com**
 
 - ⚡ Fun fact: I play **Genshin, Valorant, and Minecraft**!
 
