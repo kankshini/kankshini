@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kankshini Deotale</h1>
-<h3 align="center">Aspiring Web Developer | Electronics Engineer | Tech Explorer</h3>
+<h3 align="center">Aspiring Embedded System Developer | Electronics Engineer | Tech Explorer</h3>
 
 - 🔭 I’m currently working on **IoT & AI Projects**
 
